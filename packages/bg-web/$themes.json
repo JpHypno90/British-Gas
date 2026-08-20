@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e3197a99bb41ef14024ed66575cadf0879bafa0f",
+    "name": "core",
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "primitives/bg-colours": "enabled",
+      "primitives/dimensions": "enabled",
+      "primitives/opacity": "enabled",
+      "primitives/typography": "enabled"
+    },
+    "group": "primatives"
+  },
+  {
+    "id": "68f21ae6972c68c8cd941ebe1708b415c91d5759",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "primitives/bg-colours": "source",
+      "semantics/colour-light": "enabled",
+      "semantics/effects-light": "enabled",
+      "semantics/gradient-light": "enabled"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "673dd859e56f88505a2e465941b1e22b8c91bf54",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "primitives/bg-colours": "source",
+      "semantics/colour-dark": "source",
+      "semantics/effects-dark": "source",
+      "semantics/gradient-dark": "source"
+    },
+    "group": "themes"
+  }
+]
