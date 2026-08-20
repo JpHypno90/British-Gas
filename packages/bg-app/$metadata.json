@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "semantics/dark",
+    "semantics/dimensions",
+    "semantics/modifiers",
+    "semantics/typography",
+    "primitives/colours",
+    "primitives/dimensions",
+    "primitives/opacity",
+    "primitives/typography",
+    "components/button"
+  ]
+}
