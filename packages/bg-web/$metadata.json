@@ -1,5 +1,18 @@
 {
   "tokenSetOrder": [
+    "primitives/bg-colours",
+    "primitives/dimensions",
+    "primitives/opacity",
+    "primitives/typography",
+    "semantics/colour-dark",
+    "semantics/colour-light",
+    "semantics/dimensions",
+    "semantics/effects-dark",
+    "semantics/effects-light",
+    "semantics/gradient-dark",
+    "semantics/gradient-light",
+    "semantics/planets",
+    "semantics/typography",
     "components/benefitTile",
     "components/button",
     "components/buttonGroup",
@@ -36,19 +49,6 @@
     "components/switchSteps",
     "components/tabs",
     "components/topBar",
-    "components/trustpilot",
-    "primitives/bg-colours",
-    "primitives/dimensions",
-    "primitives/opacity",
-    "primitives/typography",
-    "semantics/colour-dark",
-    "semantics/colour-light",
-    "semantics/dimensions",
-    "semantics/effects-dark",
-    "semantics/effects-light",
-    "semantics/gradient-dark",
-    "semantics/gradient-light",
-    "semantics/planets",
-    "semantics/typography"
+    "components/trustpilot"
   ]
 }
