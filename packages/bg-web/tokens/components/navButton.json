@@ -1,0 +1,76 @@
+{
+  "colour": {
+    "navButton": {
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.action.tertiary.default}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{colour.text.action.tertiary.hover}"
+        },
+        "pressed": {
+          "$type": "color",
+          "$value": "{colour.text.action.tertiary.pressed}"
+        }
+      },
+      "background": {
+        "pressed": {
+          "$type": "color",
+          "$value": "{colour.background.action.secondary.pressed}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{colour.background.action.secondary.hover}"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "navButton": {
+      "horizontalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.lg}"
+      },
+      "verticalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.md}"
+      },
+      "label": {
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.3}"
+        }
+      }
+    }
+  },
+  "sizing": {
+    "navButton": {
+      "height": {
+        "$type": "sizing",
+        "$value": "{size.40}"
+      },
+      "minWidth": {
+        "$type": "sizing",
+        "$value": "{size.96}"
+      }
+    }
+  },
+  "borderRadius": {
+    "navButton": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.round}"
+      }
+    }
+  },
+  "typography": {
+    "navButton": {
+      "default": {
+        "$type": "typography",
+        "$value": "{typography.body.desktop.md.bold}"
+      }
+    }
+  }
+}

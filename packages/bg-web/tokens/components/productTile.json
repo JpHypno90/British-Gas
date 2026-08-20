@@ -1,0 +1,196 @@
+{
+  "sizing": {
+    "productTile": {
+      "landscape": {
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{size.624}"
+        },
+        "maxHeight": {
+          "$type": "sizing",
+          "$value": "{size.430}"
+        },
+        "minHeight": {
+          "$type": "sizing",
+          "$value": "{size.250}"
+        }
+      },
+      "portrait": {
+        "large": {
+          "minHeight": {
+            "$type": "sizing",
+            "$value": "{size.430}"
+          },
+          "minWidth": {
+            "$type": "sizing",
+            "$value": "{size.405}"
+          }
+        },
+        "small": {
+          "minHeight": {
+            "$type": "sizing",
+            "$value": "{size.500}"
+          },
+          "minWidth": {
+            "$type": "sizing",
+            "$value": "{size.312}"
+          }
+        }
+      }
+    }
+  },
+  "spacing": {
+    "productTile": {
+      "landscape": {
+        "column": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          }
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        }
+      },
+      "portrait": {
+        "row": {
+          "xl": {
+            "horizontalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.32}"
+            },
+            "verticalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.32}"
+            },
+            "content": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.16}"
+              }
+            }
+          },
+          "sm": {
+            "horizontalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.2xl}"
+            },
+            "verticalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.2xl}"
+            },
+            "content": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.lg}"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "productTile": {
+      "cornerAccent": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.xs}"
+        }
+      },
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.40}"
+      }
+    }
+  },
+  "colour": {
+    "productTile": {
+      "border": {
+        "alt": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.alt}"
+        },
+        "hive": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.hive}"
+        },
+        "promotion": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.promotion}"
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.default}"
+        }
+      },
+      "text": {
+        "title": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "body": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      },
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.container.primary}"
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "productTile": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.3}"
+      }
+    }
+  },
+  "typography": {
+    "productTile": {
+      "landscape": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.md.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.regular}"
+        }
+      },
+      "portrait": {
+        "xl": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.desktop.md.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          }
+        },
+        "sm": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.mobile.lg.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.mobile.md.regular}"
+          }
+        }
+      }
+    }
+  }
+}

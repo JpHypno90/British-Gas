@@ -1,0 +1,100 @@
+{
+  "spacing": {
+    "stats": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.xs}"
+      }
+    }
+  },
+  "colour": {
+    "stats": {
+      "text": {
+        "label": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "symbol": {
+          "$type": "color",
+          "$value": "{colour.text.accent-secondary}"
+        },
+        "number": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    }
+  },
+  "sizing": {
+    "stats": {
+      "minWidth": {
+        "$type": "sizing",
+        "$value": "{size.150}"
+      },
+      "maxWidth": {
+        "$type": "sizing",
+        "$value": "{size.240}"
+      }
+    }
+  },
+  "typography": {
+    "stats": {
+      "xl": {
+        "number": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.2xl.bold}"
+        },
+        "symbol": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.2xl.bold}"
+        },
+        "label": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.regular}"
+        }
+      },
+      "lg": {
+        "number": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.xl.bold}"
+        },
+        "symbol": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.xl.bold}"
+        },
+        "label": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.regular}"
+        }
+      },
+      "md": {
+        "number": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.xl.bold}"
+        },
+        "symbol": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.xl.bold}"
+        },
+        "label": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.regular}"
+        }
+      },
+      "sm": {
+        "number": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.2xl.bold}"
+        },
+        "symbol": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.2xl.bold}"
+        },
+        "label": {
+          "$type": "typography",
+          "$value": "{typography.body.mobile.md.regular}"
+        }
+      }
+    }
+  }
+}

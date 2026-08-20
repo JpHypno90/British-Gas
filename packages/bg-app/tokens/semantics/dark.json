@@ -1,0 +1,367 @@
+{
+  "colour": {
+    "background": {
+      "surface": {
+        "primary": {
+          "$extensions": {
+            "com.figma.hiddenFromPublishing": false,
+            "com.figma.scopes": [
+              "ALL_FILLS",
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ]
+          },
+          "$type": "color",
+          "$value": "{colour.primary.dark.navy.1}"
+        },
+        "seocndary": {
+          "$extensions": {
+            "com.figma.hiddenFromPublishing": false,
+            "com.figma.scopes": [
+              "ALL_FILLS",
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ]
+          },
+          "$type": "color",
+          "$value": "{colour.primary.dark.navy.3}"
+        }
+      },
+      "container": {
+        "primary": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_FILLS",
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ]
+          },
+          "$type": "color",
+          "$value": "{colour.primary.dark.navy.2}"
+        },
+        "secondary": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_FILLS",
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ]
+          },
+          "$type": "color",
+          "$value": "{colour.primary.dark.navy.3}"
+        },
+        "tertiary": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_FILLS",
+              "SHAPE_FILL",
+              "FRAME_FILL"
+            ]
+          },
+          "$type": "color",
+          "$value": "{colour.primary.dark.navy.7}"
+        },
+        "brand": {
+          "british-gas": {
+            "primary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_FILLS",
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ]
+              },
+              "$type": "color",
+              "$value": "{colour.primary.light.navy.9}"
+            },
+            "primary-muted": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{modifiers.alpha.50} ",
+                    "space": "srgb"
+                  }
+                },
+                "com.figma.scopes": [
+                  "ALL_FILLS",
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ]
+              },
+              "$type": "color",
+              "$value": "{colour.primary.light.navy.9}"
+            }
+          }
+        }
+      },
+      "action": {
+        "primary": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.primary.dark.lime.9}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{colour.primary.dark.lime.8}"
+          },
+          "pressed-alt": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{modifiers.alpha.08} ",
+                  "space": "srgb"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{colour.system.light.neutral.1}"
+          }
+        },
+        "warning": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.secondary.dark.red.9}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{colour.secondary.dark.red.6}"
+          },
+          "pressed-alt": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{modifiers.alpha.08} ",
+                  "space": "srgb"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{colour.system.light.neutral.1}"
+          }
+        }
+      }
+    },
+    "border": {
+      "primary": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{modifiers.alpha.08} ",
+              "space": "lch"
+            }
+          },
+          "com.figma.scopes": [
+            "STROKE_COLOR"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.system.light.neutral.1}"
+      },
+      "secondary": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "STROKE_COLOR"
+          ]
+        },
+        "$type": "color",
+        "$value": "linear-gradient(180deg, #0093f533 0%, #71baff33 100%)"
+      },
+      "action": {
+        "primary": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.primary.dark.lime.9}"
+          }
+        },
+        "warning": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.secondary.dark.red.11}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{colour.secondary.dark.red.11}"
+          }
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "TEXT_FILL"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.primary.light.navy.1}"
+      },
+      "secondary": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "TEXT_FILL"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.primary.dark.cyan.12}"
+      },
+      "accent": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "TEXT_FILL"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.primary.dark.lime.9}"
+      },
+      "warning": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "TEXT_FILL"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.secondary.dark.orange.11}"
+      },
+      "info": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "TEXT_FILL"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.primary.dark.cyan.9}"
+      },
+      "action": {
+        "primary": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.system.light.neutral.12}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{colour.system.light.neutral.12}"
+          },
+          "inactive": {
+            "$type": "color",
+            "$value": "{colour.system.light.neutral.12}"
+          }
+        },
+        "secondary": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.system.dark.neutral.12}"
+          }
+        },
+        "warning": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.system.dark.neutral.12}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{colour.system.dark.neutral.12}"
+          },
+          "inactive": {
+            "$type": "color",
+            "$value": "{colour.system.dark.neutral.12}"
+          }
+        }
+      }
+    },
+    "icon": {
+      "primary": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "SHAPE_FILL"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.primary.light.navy.1}"
+      },
+      "secondary": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "SHAPE_FILL"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.primary.dark.cyan.12}"
+      },
+      "accent": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "SHAPE_FILL"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.primary.dark.lime.9}"
+      },
+      "warning": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "SHAPE_FILL"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.secondary.dark.orange.11}"
+      },
+      "info": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "SHAPE_FILL"
+          ]
+        },
+        "$type": "color",
+        "$value": "{colour.primary.dark.cyan.9}"
+      },
+      "action": {
+        "primary": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.system.light.neutral.12}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{colour.system.light.neutral.12}"
+          },
+          "inactive": {
+            "$type": "color",
+            "$value": "{colour.system.light.neutral.12}"
+          }
+        },
+        "secondary": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.system.dark.neutral.12}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{colour.system.dark.neutral.12}"
+          },
+          "inactive": {
+            "$type": "color",
+            "$value": "{colour.system.dark.neutral.12}"
+          }
+        },
+        "warning": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.system.dark.neutral.12}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{colour.system.dark.neutral.12}"
+          },
+          "inactive": {
+            "$type": "color",
+            "$value": "{colour.system.dark.neutral.12}"
+          }
+        }
+      }
+    }
+  }
+}

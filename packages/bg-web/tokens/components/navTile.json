@@ -1,0 +1,148 @@
+{
+  "colour": {
+    "navTile": {
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.default}"
+        },
+        "servicing": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.servicing}"
+        },
+        "membership": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.membership}"
+        },
+        "hive": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.hive}"
+        },
+        "promotion": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.promotion}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.default}"
+        }
+      },
+      "background": {
+        "promotion": {
+          "$type": "color",
+          "$value": "{colour.gradient.background.container.promotion}"
+        },
+        "servicing": {
+          "$type": "color",
+          "$value": "{colour.gradient.background.container.servicing}"
+        },
+        "hive": {
+          "$type": "color",
+          "$value": "{colour.gradient.background.container.hive}"
+        },
+        "membership": {
+          "$type": "color",
+          "$value": "{colour.gradient.background.container.membership}"
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.container.primary}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{colour.gradient.background.container.default}"
+        }
+      },
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.action.secondary.default}"
+        },
+        "promotion": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        },
+        "servicing": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        },
+        "hive": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        },
+        "membership": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "navTile": {
+      "xl": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "topPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        }
+      },
+      "sm": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.16}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.24}"
+        },
+        "topPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.24}"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "navTile": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.xl}"
+      }
+    }
+  },
+  "borderWidth": {
+    "navTile": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.sm}"
+      }
+    }
+  },
+  "typography": {
+    "navTile": {
+      "xl": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.md.bold}"
+        }
+      },
+      "sm": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.sm.bold}"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "colour": {
+    "navDot": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.container.inverted}"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "navDot": {
+      "active": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.round}"
+      }
+    }
+  },
+  "opacity": {
+    "navDot": {
+      "default": {
+        "$type": "opacity",
+        "$value": "{opacity.80}"
+      }
+    }
+  },
+  "sizing": {
+    "navDot": {
+      "active": {
+        "width": {
+          "$type": "sizing",
+          "$value": "{size.32}"
+        },
+        "height": {
+          "$type": "sizing",
+          "$value": "{size.10}"
+        }
+      },
+      "default": {
+        "width": {
+          "$type": "sizing",
+          "$value": "{size.10}"
+        },
+        "height": {
+          "$type": "sizing",
+          "$value": "{size.10}"
+        }
+      }
+    }
+  }
+}

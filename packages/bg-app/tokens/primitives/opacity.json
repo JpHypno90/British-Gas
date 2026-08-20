@@ -1,0 +1,52 @@
+{
+  "opacity": {
+    "0": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "4": {
+      "$type": "number",
+      "$value": "4"
+    },
+    "5": {
+      "$type": "number",
+      "$value": "5"
+    },
+    "8": {
+      "$type": "number",
+      "$value": "8"
+    },
+    "12": {
+      "$type": "number",
+      "$value": "12"
+    },
+    "40": {
+      "$type": "number",
+      "$value": "40"
+    },
+    "50": {
+      "$type": "number",
+      "$value": "50"
+    },
+    "80": {
+      "$type": "number",
+      "$value": "80"
+    },
+    "90": {
+      "$type": "number",
+      "$value": "90"
+    },
+    "100": {
+      "$type": "number",
+      "$value": "100"
+    },
+    "05": {
+      "$type": "number",
+      "$value": "0.5"
+    },
+    "008": {
+      "$type": "number",
+      "$value": "0.08"
+    }
+  }
+}

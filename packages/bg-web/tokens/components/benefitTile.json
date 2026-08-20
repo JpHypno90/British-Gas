@@ -1,0 +1,178 @@
+{
+  "spacing": {
+    "benefitTile": {
+      "xl": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        }
+      },
+      "lg": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        }
+      },
+      "md": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        }
+      },
+      "sm": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        }
+      }
+    }
+  },
+  "colour": {
+    "benefitTile": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "linear-gradient(145deg, {colour.primary.dark.navy.9} 0%, {colour.primary.dark.navy.5} 76%)"
+        },
+        "default-copy": {
+          "$type": "color",
+          "$value": "linear-gradient(-32deg, {colour.primary.dark.navy.9} 0%, {colour.primary.dark.navy.5} 76%)"
+        }
+      },
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "linear-gradient(145deg, {colour.primary.dark.cyan.10} 0%, {colour.primary.dark.cyan.10} 100%)"
+        },
+        "default-copy": {
+          "$type": "color",
+          "$value": "linear-gradient(-32deg, {colour.primary.dark.cyan.10} 0%, {colour.primary.dark.cyan.10} 100%)"
+        }
+      },
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      }
+    }
+  },
+  "opacity": {
+    "benefitTile": {
+      "blur": {
+        "default": {
+          "$type": "opacity",
+          "$value": "{opacity.80}"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "benefitTile": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.40}"
+      },
+      "cornerAccent": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.xs}"
+        }
+      },
+      "image": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.20}"
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "benefitTile": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.sm}"
+      }
+    }
+  },
+  "typography": {
+    "benefitTile": {
+      "title": {
+        "lg": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.md.bold}"
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.md.bold}"
+        }
+      },
+      "body": {
+        "lg": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.regular}"
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": "{typography.body.mobile.sm.regular}"
+        }
+      }
+    }
+  }
+}

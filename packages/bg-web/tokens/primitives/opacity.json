@@ -1,0 +1,36 @@
+{
+  "opacity": {
+    "0": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "4": {
+      "$type": "number",
+      "$value": "4"
+    },
+    "8": {
+      "$type": "number",
+      "$value": "8"
+    },
+    "12": {
+      "$type": "number",
+      "$value": "12"
+    },
+    "40": {
+      "$type": "number",
+      "$value": "40"
+    },
+    "80": {
+      "$type": "number",
+      "$value": "80"
+    },
+    "90": {
+      "$type": "number",
+      "$value": "90"
+    },
+    "100": {
+      "$type": "number",
+      "$value": "100"
+    }
+  }
+}

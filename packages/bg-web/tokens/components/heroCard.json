@@ -1,0 +1,486 @@
+{
+  "spacing": {
+    "heroCard": {
+      "xl": {
+        "inline": {
+          "leftColumn": {
+            "horizontalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.48}"
+            },
+            "gap": {
+              "$type": "spacing",
+              "$value": "{spacing.24}"
+            },
+            "content": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.32}"
+              }
+            },
+            "action": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.lg}"
+              }
+            }
+          }
+        },
+        "stacked": {
+          "topRow": {
+            "leftAligned": {
+              "horizontalPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.48}"
+              },
+              "bottomPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.xl}"
+              },
+              "topPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.60}"
+              },
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.2xl}"
+              },
+              "content": {
+                "gap": {
+                  "$type": "spacing",
+                  "$value": "{spacing.32}"
+                }
+              }
+            },
+            "centreAligned": {
+              "horizontalPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.280}"
+              },
+              "bottomPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.20}"
+              },
+              "topPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.60}"
+              },
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.24}"
+              },
+              "content": {
+                "gap": {
+                  "$type": "spacing",
+                  "$value": "{spacing.32}"
+                }
+              }
+            }
+          }
+        }
+      },
+      "lg": {
+        "stacked": {
+          "topRow": {
+            "leftAligned": {
+              "horizontalPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.48}"
+              },
+              "bottomPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.xl}"
+              },
+              "topPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.60}"
+              },
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.2xl}"
+              },
+              "content": {
+                "gap": {
+                  "$type": "spacing",
+                  "$value": "{spacing.32}"
+                }
+              }
+            },
+            "centreAligned": {
+              "horizontalPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.48}"
+              },
+              "bottomPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.xl}"
+              },
+              "topPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.60}"
+              },
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.2xl}"
+              },
+              "content": {
+                "gap": {
+                  "$type": "spacing",
+                  "$value": "{spacing.32}"
+                }
+              }
+            },
+            "action": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.lg}"
+              }
+            }
+          }
+        }
+      },
+      "md": {
+        "stacked": {
+          "topRow": {
+            "leftAligned": {
+              "horizontalPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.32}"
+              },
+              "bottomPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.xl}"
+              },
+              "topPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.48}"
+              },
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.2xl}"
+              },
+              "content": {
+                "gap": {
+                  "$type": "spacing",
+                  "$value": "{spacing.2xl}"
+                }
+              }
+            },
+            "centreAligned": {
+              "horizontalPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.32}"
+              },
+              "bottomPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.xl}"
+              },
+              "topPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.48}"
+              },
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.2xl}"
+              },
+              "content": {
+                "gap": {
+                  "$type": "spacing",
+                  "$value": "{spacing.2xl}"
+                }
+              }
+            },
+            "action": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.lg}"
+              }
+            }
+          }
+        }
+      },
+      "sm": {
+        "stacked": {
+          "topRow": {
+            "leftAligned": {
+              "horizontalPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.24}"
+              },
+              "bottomPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.80}"
+              },
+              "topPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.80}"
+              },
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.2xl}"
+              },
+              "content": {
+                "gap": {
+                  "$type": "spacing",
+                  "$value": "{spacing.2xl}"
+                }
+              }
+            },
+            "centreAligned": {
+              "horizontalPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.24}"
+              },
+              "bottomPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.80}"
+              },
+              "topPadding": {
+                "$type": "spacing",
+                "$value": "{spacing.80}"
+              },
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.2xl}"
+              },
+              "content": {
+                "gap": {
+                  "$type": "spacing",
+                  "$value": "{spacing.2xl}"
+                }
+              }
+            },
+            "action": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.lg}"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "colour": {
+    "heroCard": {
+      "background": {
+        "xl": {
+          "default": {
+            "$type": "color",
+            "$value": "linear-gradient(180deg, {colour.primary.dark.navy.4} 0%, {colour.primary.dark.navy.9} 30%, rgba(#0093f5, 0.0) 90%)"
+          }
+        },
+        "sm": {
+          "default": {
+            "$type": "color",
+            "$value": "linear-gradient(180deg, {colour.primary.dark.navy.4} 0%, {colour.primary.dark.navy.9} 51%, rgba(#0093f5, 0.0) 85%)"
+          }
+        },
+        "md": {
+          "default": {
+            "$type": "color",
+            "$value": "linear-gradient(180deg, {colour.primary.dark.navy.4} 0%, {colour.primary.dark.navy.9} 35%, rgba(#0093f5, 0.0) 75%)"
+          }
+        }
+      },
+      "text": {
+        "title": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        },
+        "body": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "subtitle": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      },
+      "blur": {
+        "right": {
+          "$type": "color",
+          "$value": "{colour.primary.dark.lime.9}"
+        },
+        "topLeft": {
+          "$type": "color",
+          "$value": "{colour.primary.dark.cyan.9}"
+        }
+      },
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "linear-gradient(135deg, #004ECC 0%, #0093F5 100%)"
+        }
+      }
+    }
+  },
+  "typography": {
+    "heroCard": {
+      "xl": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.3xl.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.lg.regular}"
+        },
+        "subtitle": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.bold}"
+        }
+      },
+      "lg": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.3xl.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.lg.regular}"
+        },
+        "subtitle": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.bold}"
+        }
+      },
+      "md": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.xl.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.bold}"
+        },
+        "subtitle": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.bold}"
+        }
+      },
+      "sm": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.2xl.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.mobile.md.regular}"
+        },
+        "subtitle": {
+          "$type": "typography",
+          "$value": "{typography.body.mobile.md.bold}"
+        }
+      }
+    }
+  },
+  "opacity": {
+    "heroCard": {
+      "blur": {
+        "default": {
+          "$type": "opacity",
+          "$value": "{opacity.90}"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "heroCard": {
+      "xl": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.80}"
+      },
+      "lg": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.80}"
+      },
+      "md": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.60}"
+      },
+      "sm": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.48}"
+      }
+    }
+  },
+  "borderWidth": {
+    "heroCard": {
+      "card": {
+        "default": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.xs}"
+        }
+      }
+    }
+  },
+  "sizing": {
+    "heroCard": {
+      "xl": {
+        "inline": {
+          "minHeight": {
+            "$type": "sizing",
+            "$value": "{size.720}"
+          },
+          "image": {
+            "height": {
+              "$type": "sizing",
+              "$value": "{size.720}"
+            }
+          }
+        },
+        "stacked": {
+          "minHeight": {
+            "$type": "sizing",
+            "$value": "{size.700}"
+          },
+          "image": {
+            "height": {
+              "$type": "sizing",
+              "$value": "{size.350}"
+            }
+          }
+        }
+      },
+      "lg": {
+        "stacked": {
+          "image": {
+            "height": {
+              "$type": "sizing",
+              "$value": "{size.350}"
+            }
+          },
+          "minHeight": {
+            "$type": "sizing",
+            "$value": "{size.700}"
+          }
+        }
+      },
+      "md": {
+        "minHeight": {
+          "$type": "sizing",
+          "$value": "{size.700}"
+        },
+        "image": {
+          "height": {
+            "$type": "sizing",
+            "$value": "{size.360}"
+          }
+        }
+      },
+      "sm": {
+        "minHeight": {
+          "$type": "sizing",
+          "$value": "{size.732}"
+        },
+        "image": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.375}"
+          }
+        }
+      }
+    }
+  }
+}

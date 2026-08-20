@@ -1,0 +1,62 @@
+{
+  "sizing": {
+    "listItem": {
+      "icon": {
+        "xl": {
+          "$type": "sizing",
+          "$value": "{sizing.2xl}"
+        },
+        "sm": {
+          "$type": "sizing",
+          "$value": "{sizing.xl}"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "listItem": {
+      "xl": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        }
+      },
+      "sm": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        }
+      }
+    }
+  },
+  "colour": {
+    "listItem": {
+      "icon": {
+        "$type": "color",
+        "$value": "{colour.icon.accent-secondary}"
+      },
+      "text": {
+        "label": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      }
+    }
+  },
+  "typography": {
+    "listItem": {
+      "xl": {
+        "label": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.bold}"
+        }
+      },
+      "sm": {
+        "label": {
+          "$type": "typography",
+          "$value": "{typography.body.mobile.md.bold}"
+        }
+      }
+    }
+  }
+}

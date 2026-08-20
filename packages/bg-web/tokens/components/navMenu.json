@@ -1,0 +1,124 @@
+{
+  "spacing": {
+    "navMenu": {
+      "xl": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.80}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.40}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "title": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "bottomPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          }
+        }
+      },
+      "sm": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "title": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "topPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        }
+      }
+    }
+  },
+  "colour": {
+    "navMenu": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.container.default}"
+        },
+        "sm": {
+          "expanded": {
+            "$type": "color",
+            "$value": "{colour.background.container.primary}"
+          }
+        }
+      },
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      },
+      "icon": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.icon.action.secondary.default}"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "navMenu": {
+      "xl": {
+        "bottomLeft": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.80}"
+        },
+        "bottomRight": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.80}"
+        }
+      },
+      "sm": {
+        "expanded": {
+          "default": {
+            "$type": "borderRadius",
+            "$value": "{borderRadius.36}"
+          }
+        }
+      }
+    }
+  },
+  "typography": {
+    "navmMenu": {
+      "xl": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.2xl.bold}"
+        }
+      },
+      "sm": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.sm.bold}"
+        }
+      }
+    }
+  }
+}

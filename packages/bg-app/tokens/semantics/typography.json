@@ -1,0 +1,171 @@
+{
+  "typography": {
+    "display": {
+      "sm-28": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.interTight}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.28}",
+          "lineHeight": "{lineHeight.32}"
+        }
+      },
+      "md-32": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.interTight}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.32}",
+          "lineHeight": "{lineHeight.36}"
+        }
+      },
+      "lg-48": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.interTight}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.48}",
+          "lineHeight": "{lineHeight.54}"
+        }
+      }
+    },
+    "heading": {
+      "xl-24": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.interTight}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.24}",
+          "lineHeight": "{lineHeight.31}"
+        }
+      },
+      "lg-20": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.sarabun}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.20}",
+          "lineHeight": "{lineHeight.24}"
+        }
+      },
+      "md-18": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.sarabun}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.18}",
+          "lineHeight": "{lineHeight.23}"
+        }
+      },
+      "sm-16": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.sarabun}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.16}",
+          "lineHeight": "{lineHeight.20}"
+        }
+      }
+    },
+    "body": {
+      "regular": {
+        "xs-14": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.sarabun}",
+            "fontWeight": "{fontWeight.500}",
+            "fontSize": "{fontSize.14}",
+            "lineHeight": "{lineHeight.17}"
+          }
+        },
+        "sm-16": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.sarabun}",
+            "fontWeight": "{fontWeight.500}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeight.20}"
+          }
+        },
+        "lg-18": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.sarabun}",
+            "fontWeight": "{fontWeight.500}",
+            "fontSize": "{fontSize.18}",
+            "lineHeight": "{lineHeight.22}"
+          }
+        }
+      },
+      "bold": {
+        "xs-14": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.sarabun}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.14}",
+            "lineHeight": "{lineHeight.17}"
+          }
+        },
+        "sm-16": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.sarabun}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeight.20}"
+          }
+        },
+        "lg-18": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.sarabun}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.18}",
+            "lineHeight": "{lineHeight.22}"
+          }
+        }
+      }
+    },
+    "metric": {
+      "sm-16": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.interTight}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.16}",
+          "lineHeight": "{lineHeight.20}"
+        }
+      },
+      "lg-20": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.sarabun}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.20}",
+          "lineHeight": "{lineHeight.27}"
+        }
+      },
+      "xl-24": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.interTight}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.24}",
+          "lineHeight": "{lineHeight.27}"
+        }
+      }
+    },
+    "caption": {
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.sarabun}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.14}",
+          "lineHeight": "{lineHeight.17}"
+        }
+      }
+    }
+  }
+}

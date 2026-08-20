@@ -1,0 +1,126 @@
+{
+  "sizing": {
+    "hero": {
+      "xl": {
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{size.1440}"
+        }
+      },
+      "lg": {
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{size.1024}"
+        }
+      },
+      "sm": {
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{size.375}"
+        }
+      },
+      "md": {
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{size.768}"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "hero": {
+      "xl": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.80}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.96}"
+        }
+      },
+      "sm": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.24}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        }
+      },
+      "md": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.96}"
+        }
+      },
+      "lg": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.80}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.96}"
+        }
+      }
+    }
+  },
+  "colour": {
+    "hero": {
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      },
+      "blur": {
+        "right": {
+          "$type": "color",
+          "$value": "{colour.primary.dark.lime.9}"
+        },
+        "topLeft": {
+          "$type": "color",
+          "$value": "{colour.primary.dark.cyan.9}"
+        }
+      }
+    }
+  },
+  "typography": {
+    "hero": {
+      "xl": {
+        "heading": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.2xl.bold}"
+        }
+      },
+      "sm": {
+        "heading": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.2xl.bold}"
+        }
+      },
+      "md": {
+        "heading": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.2xl.bold}"
+        }
+      }
+    }
+  },
+  "opacity": {
+    "hero": {
+      "blur": {
+        "default": {
+          "$type": "opacity",
+          "$value": "{opacity.90}"
+        }
+      }
+    }
+  }
+}

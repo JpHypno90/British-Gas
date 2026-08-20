@@ -1,0 +1,716 @@
+{
+  "spacing": {
+    "card": {
+      "sm": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.md}"
+          }
+        }
+      },
+      "xl": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "gap": {
+          "default": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "hover": {
+            "$type": "spacing",
+            "$value": "{spacing.28}"
+          }
+        },
+        "content": {
+          "gap": {
+            "default": {
+              "$type": "spacing",
+              "$value": "{spacing.md}"
+            },
+            "hover": {
+              "$type": "spacing",
+              "$value": "{spacing.sm}"
+            }
+          }
+        }
+      },
+      "trustPilot": {
+        "xl": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        },
+        "lg": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        },
+        "md": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        },
+        "sm": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        }
+      },
+      "tariffCard": {
+        "xl": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.48}"
+          },
+          "content": {
+            "gap": {
+              "default": {
+                "$type": "spacing",
+                "$value": "{spacing.16}"
+              }
+            },
+            "header": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.4}"
+              }
+            },
+            "body": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.lg}"
+              }
+            },
+            "buttonGroup": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.20}"
+              }
+            }
+          }
+        },
+        "sm": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "content": {
+            "gap": {
+              "$type": "spacing",
+              "$value": "{spacing.16}"
+            },
+            "header": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.4}"
+              }
+            },
+            "body": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.lg}"
+              }
+            },
+            "buttonGroup": {
+              "gap": {
+                "$type": "spacing",
+                "$value": "{spacing.20}"
+              }
+            }
+          }
+        }
+      },
+      "tertiary": {
+        "xl": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.48}"
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.36}"
+          },
+          "content": {
+            "gap": {
+              "$type": "spacing",
+              "$value": "{spacing.lg}"
+            }
+          }
+        },
+        "sm": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.36}"
+          },
+          "content": {
+            "gap": {
+              "$type": "spacing",
+              "$value": "{spacing.lg}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "sizing": {
+    "card": {
+      "primary": {
+        "width": {
+          "$type": "sizing",
+          "$value": "{size.296}"
+        },
+        "height": {
+          "$type": "sizing",
+          "$value": "{size.350}"
+        },
+        "icon": {
+          "default": {
+            "$type": "sizing",
+            "$value": "{sizing.icon.md}"
+          }
+        }
+      },
+      "trustPilot": {
+        "xl": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.430}"
+          }
+        },
+        "lg": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.430}"
+          }
+        },
+        "md": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.430}"
+          }
+        },
+        "sm": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.296}"
+          }
+        },
+        "icon": {
+          "default": {
+            "$type": "sizing",
+            "$value": "{sizing.3xl}"
+          }
+        }
+      },
+      "tariffCard": {
+        "xl": {
+          "height": {
+            "$type": "sizing",
+            "$value": "{size.520}"
+          },
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.360}"
+          },
+          "icon": {
+            "height": {
+              "$type": "sizing",
+              "$value": "{sizing.icon.md}"
+            }
+          }
+        },
+        "sm": {
+          "height": {
+            "$type": "sizing",
+            "$value": "{size.430}"
+          },
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.296}"
+          },
+          "icon": {
+            "height": {
+              "$type": "sizing",
+              "$value": "{sizing.icon.sm}"
+            }
+          }
+        }
+      },
+      "tertiary": {
+        "xl": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.360}"
+          },
+          "iconContainer": {
+            "height": {
+              "$type": "sizing",
+              "$value": "{size.64}"
+            }
+          }
+        },
+        "icon": {
+          "default": {
+            "$type": "sizing",
+            "$value": "{sizing.icon.md}"
+          }
+        },
+        "sm": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.300}"
+          },
+          "iconContainer": {
+            "height": {
+              "$type": "sizing",
+              "$value": "{size.64}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "colour": {
+    "card": {
+      "primary": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.background.container.brand}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "linear-gradient(26deg, {colour.primary.light.cyan.8} 0%, {colour.primary.dark.navy.9} 75%)"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "linear-gradient(0deg, {colour.primary.dark.cyan.9} 0%, {colour.primary.light.navy.7} 100%)"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "linear-gradient(90deg, {colour.primary.dark.cyan.9} 0%, {colour.primary.light.navy.7} 100%)"
+          }
+        },
+        "blur": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.primary.dark.cyan.9}"
+          },
+          "hover": {
+            "top": {
+              "$type": "color",
+              "$value": "{colour.primary.dark.lime.9}"
+            },
+            "bottom": {
+              "$type": "color",
+              "$value": "{colour.primary.light.cyan.2}"
+            }
+          }
+        },
+        "title": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.secondary}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.text.secondary}"
+          }
+        },
+        "icon": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.icon.secondary}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.icon.secondary}"
+          }
+        },
+        "body": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.secondary}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.text.secondary}"
+          }
+        }
+      },
+      "trustPilot": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.background.container.brand}"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.gradient.border.default}"
+          }
+        },
+        "text": {
+          "title": {
+            "$type": "color",
+            "$value": "{colour.text.secondary}"
+          },
+          "body": {
+            "$type": "color",
+            "$value": "{colour.text.secondary}"
+          }
+        },
+        "icon": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.icon.alt}"
+          }
+        }
+      },
+      "tariffCard": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.gradient.background.container.default-inverse}"
+          }
+        },
+        "text": {
+          "label": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.text.primary}"
+            },
+            "newTariff": {
+              "$type": "color",
+              "$value": "{colour.secondary.dark.yellow.9}"
+            },
+            "exclusive": {
+              "$type": "color",
+              "$value": "{colour.secondary.dark.orange.10}"
+            },
+            "smartTariff": {
+              "$type": "color",
+              "$value": "{colour.primary.dark.lime.11}"
+            }
+          },
+          "title": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          },
+          "description": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.gradient.border.default}"
+          },
+          "newTariff": {
+            "$type": "color",
+            "$value": "linear-gradient(0deg, {colour.secondary.dark.blue.7} 0%, {colour.secondary.light.yellow.10} 100%)"
+          },
+          "exclusive": {
+            "$type": "color",
+            "$value": "linear-gradient(180deg, {colour.secondary.dark.orange.10} 0%, {colour.primary.light.navy.11}  100%)"
+          },
+          "smartTariff": {
+            "$type": "color",
+            "$value": "linear-gradient(180deg, {colour.primary.dark.lime.10} 0%, {colour.primary.light.navy.11}  100%)"
+          }
+        }
+      },
+      "tertiary": {
+        "text": {
+          "title": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          },
+          "body": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        },
+        "icon": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.icon.primary}"
+          },
+          "iconContainer": {
+            "$type": "color",
+            "$value": "{colour.background.container.alt}"
+          }
+        },
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "linear-gradient(0deg, #004ecc 0%, #002978 1000%)"
+          }
+        }
+      }
+    }
+  },
+  "opacity": {
+    "card": {
+      "default": {
+        "$type": "opacity",
+        "$value": "{opacity.90}"
+      }
+    }
+  },
+  "borderRadius": {
+    "card": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.40}"
+      },
+      "sm": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.24}"
+      },
+      "image": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.24}"
+        }
+      },
+      "tertiary": {
+        "iconContainer": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.round}"
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "card": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.sm}"
+      }
+    }
+  },
+  "typography": {
+    "card": {
+      "primary": {
+        "sm": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.mobile.sm.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.mobile.md.regular}"
+          }
+        },
+        "xl": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.desktop.sm.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          }
+        }
+      },
+      "trustPilot": {
+        "xl": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.desktop.xs.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          }
+        },
+        "lg": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.desktop.xs.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          }
+        },
+        "md": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.mobile.2xl.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.mobile.md.regular}"
+          }
+        },
+        "sm": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.mobile.sm.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.mobile.md.regular}"
+          }
+        }
+      },
+      "tariffCard": {
+        "xl": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.desktop.lg.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.sarabun}",
+              "fontWeight": "{fontWeight.400}",
+              "fontSize": "{fontSize.16}",
+              "lineHeight": "{lineHeight.24}",
+              "letterSpacing": "{letterSpacing.5}"
+            }
+          },
+          "label": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.sarabun}",
+              "fontWeight": "{fontWeight.700}",
+              "fontSize": "{fontSize.16}",
+              "lineHeight": "{lineHeight.24}",
+              "letterSpacing": "{letterSpacing.5}"
+            }
+          }
+        },
+        "sm": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.mobile.xl.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.sarabun}",
+              "fontWeight": "{fontWeight.400}",
+              "fontSize": "{fontSize.16}",
+              "lineHeight": "{lineHeight.24}",
+              "letterSpacing": "{letterSpacing.5}"
+            }
+          },
+          "label": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.sarabun}",
+              "fontWeight": "{fontWeight.700}",
+              "fontSize": "{fontSize.16}",
+              "lineHeight": "{lineHeight.24}",
+              "letterSpacing": "{letterSpacing.5}"
+            }
+          }
+        }
+      },
+      "tertiary": {
+        "xl": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.desktop.sm.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          }
+        },
+        "sm": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.mobile.sm.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.mobile.md.regular}"
+          }
+        }
+      }
+    }
+  }
+}

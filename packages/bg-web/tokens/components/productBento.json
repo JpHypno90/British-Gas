@@ -1,0 +1,18 @@
+{
+  "spacing": {
+    "productBento": {
+      "column": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        }
+      },
+      "row": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        }
+      }
+    }
+  }
+}

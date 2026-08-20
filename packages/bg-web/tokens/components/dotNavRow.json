@@ -1,0 +1,10 @@
+{
+  "spacing": {
+    "dotNavRow": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.xs}"
+      }
+    }
+  }
+}

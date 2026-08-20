@@ -1,0 +1,174 @@
+{
+  "spacing": {
+    "2xs": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "GAP"
+        ]
+      },
+      "$type": "spacing",
+      "$value": "{spacing.2}"
+    },
+    "xs": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "GAP"
+        ]
+      },
+      "$type": "spacing",
+      "$value": "{spacing.4}"
+    },
+    "sm": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "GAP"
+        ]
+      },
+      "$type": "spacing",
+      "$value": "{spacing.8}"
+    },
+    "md": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "GAP"
+        ]
+      },
+      "$type": "spacing",
+      "$value": "{spacing.12}"
+    },
+    "lg": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "GAP"
+        ]
+      },
+      "$type": "spacing",
+      "$value": "{spacing.16}"
+    },
+    "xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "GAP"
+        ]
+      },
+      "$type": "spacing",
+      "$value": "{spacing.20}"
+    },
+    "2xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "GAP"
+        ]
+      },
+      "$type": "spacing",
+      "$value": "{spacing.24}"
+    },
+    "3xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "GAP"
+        ]
+      },
+      "$type": "spacing",
+      "$value": "{spacing.32}"
+    },
+    "4xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "GAP"
+        ]
+      },
+      "$type": "spacing",
+      "$value": "{spacing.40}"
+    }
+  },
+  "borderRadius": {
+    "lg": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "borderRadius",
+      "$value": "{borderRadius.20}"
+    },
+    "xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "borderRadius",
+      "$value": "{borderRadius.24}"
+    },
+    "round": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "borderRadius",
+      "$value": "{borderRadius.100}"
+    }
+  },
+  "sizing": {
+    "icon": {
+      "sm": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "WIDTH_HEIGHT"
+          ]
+        },
+        "$type": "sizing",
+        "$value": "{size.16}"
+      },
+      "md": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "WIDTH_HEIGHT"
+          ]
+        },
+        "$type": "sizing",
+        "$value": "{size.20}"
+      },
+      "lg": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "WIDTH_HEIGHT"
+          ]
+        },
+        "$type": "sizing",
+        "$value": "{size.24}"
+      }
+    }
+  },
+  "borderWidth": {
+    "sm": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "STROKE_FLOAT"
+        ]
+      },
+      "$type": "borderWidth",
+      "$value": "{borderWidth.1}"
+    },
+    "md": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "STROKE_FLOAT"
+        ]
+      },
+      "$type": "borderWidth",
+      "$value": "{borderWidth.2}"
+    },
+    "lg": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "STROKE_FLOAT"
+        ]
+      },
+      "$type": "borderWidth",
+      "$value": "{borderWidth.4}"
+    }
+  }
+}

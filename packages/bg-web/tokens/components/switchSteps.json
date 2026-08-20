@@ -1,0 +1,128 @@
+{
+  "sizing": {
+    "switchSteps": {
+      "xl": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.1024}"
+        }
+      },
+      "lg": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.916}"
+        }
+      },
+      "md": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.704}"
+        }
+      },
+      "sm": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.320}"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "switchSteps": {
+      "xl": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.48}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          }
+        }
+      },
+      "lg": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.48}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          }
+        }
+      },
+      "md": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          }
+        }
+      },
+      "sm": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          }
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "switchStepper": {
+      "xl": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.40}"
+        },
+        "accent": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.xs}"
+        }
+      }
+    }
+  },
+  "colour": {
+    "switchSteps": {
+      "text": {
+        "caption": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    }
+  },
+  "typography": {
+    "switchSteps": {
+      "caption": {
+        "xl": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.sm.bold}"
+        },
+        "lg": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.sm.bold}"
+        },
+        "md": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.sm.bold}"
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": "{typography.body.mobile.sm.bold}"
+        }
+      }
+    }
+  }
+}

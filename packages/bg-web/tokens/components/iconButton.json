@@ -1,0 +1,50 @@
+{
+  "sizing": {
+    "iconButton": {
+      "desktop": {
+        "width": {
+          "$type": "sizing",
+          "$value": "{size.44}"
+        },
+        "height": {
+          "$type": "sizing",
+          "$value": "{size.48}"
+        }
+      },
+      "mobile": {
+        "width": {
+          "$type": "sizing",
+          "$value": "{size.44}"
+        },
+        "height": {
+          "$type": "sizing",
+          "$value": "{size.48}"
+        }
+      }
+    }
+  },
+  "colour": {
+    "iconButton": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.action.tertiary.default}"
+        }
+      },
+      "icon": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.icon.action.primary.default}"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "iconButton": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.round}"
+      }
+    }
+  }
+}

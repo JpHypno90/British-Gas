@@ -1,0 +1,216 @@
+{
+  "sizing": {
+    "campaignBanner": {
+      "xl": {
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{size.1274}"
+        },
+        "image": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.430}"
+          }
+        }
+      },
+      "lg": {
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{size.916}"
+        },
+        "image": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.430}"
+          }
+        }
+      },
+      "md": {
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{size.678}"
+        },
+        "image": {
+          "height": {
+            "$type": "sizing",
+            "$value": "{size.217}"
+          }
+        }
+      },
+      "xs": {
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{size.302}"
+        },
+        "image": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.302}"
+          }
+        }
+      }
+    }
+  },
+  "spacing": {
+    "campaignBanner": {
+      "xl": {
+        "leftColumn": {
+          "leftPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.56}"
+          },
+          "topPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.52}"
+          },
+          "bottonPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.52}"
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        }
+      },
+      "lg": {
+        "leftColumn": {
+          "leftPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.56}"
+          },
+          "topPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "bottonPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        }
+      },
+      "md": {
+        "topRow": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.56}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        }
+      },
+      "sm": {
+        "topRow": {
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "verticalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        }
+      }
+    }
+  },
+  "colour": {
+    "campaignBanner": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.container.brand}"
+        },
+        "promotion": {
+          "$type": "color",
+          "$value": "{colour.gradient.background.container.promotion}"
+        }
+      },
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.default}"
+        },
+        "promotion": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.promotion}"
+        }
+      },
+      "text": {
+        "title": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        },
+        "body": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "campaignCard": {
+      "xl": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.40}"
+      },
+      "lg": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.40}"
+      },
+      "md": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.40}"
+      },
+      "sm": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.24}"
+      }
+    }
+  },
+  "borderWidth": {
+    "campaignBanner": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.sm}"
+      }
+    }
+  },
+  "typography": {
+    "campaignBanner": {
+      "title": {
+        "xl": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.lg.bold}"
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.md.bold}"
+        }
+      },
+      "body": {
+        "xl": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.regular}"
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": "{typography.body.mobile.md.regular}"
+        }
+      }
+    }
+  }
+}

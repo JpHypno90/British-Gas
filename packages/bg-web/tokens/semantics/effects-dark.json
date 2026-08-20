@@ -1,0 +1,39 @@
+{
+  "colour": {
+    "effect": {
+      "fill": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.primary.dark.navy.4}"
+        }
+      }
+    }
+  },
+  "boxShadow": {
+    "shadow": {
+      "container": {
+        "default": {
+          "$type": "boxShadow",
+          "$value": [
+            {
+              "x": "0",
+              "y": "{size.104}",
+              "blur": "{size.250}",
+              "spread": "0",
+              "color": "{colour.effect.fill.default}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "{size.neg-104}",
+              "blur": "{size.250}",
+              "spread": "0",
+              "color": "{colour.effect.fill.default}",
+              "type": "dropShadow"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

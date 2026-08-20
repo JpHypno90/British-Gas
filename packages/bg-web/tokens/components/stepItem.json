@@ -1,0 +1,176 @@
+{
+  "spacing": {
+    "stepItem": {
+      "xl": {
+        "leftPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.10}"
+        },
+        "container": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.xl}"
+          }
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.sm}"
+          }
+        }
+      },
+      "md": {
+        "leftPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.10}"
+        },
+        "container": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.lg}"
+          }
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.sm}"
+          }
+        }
+      },
+      "sm": {
+        "leftPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.10}"
+        },
+        "container": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.md}"
+          }
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.sm}"
+          }
+        },
+        "buttonContainer": {
+          "leftPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.40}"
+          }
+        }
+      }
+    }
+  },
+  "colour": {
+    "stepItem": {
+      "border": {
+        "stepOne": {
+          "$type": "color",
+          "$value": "{colour.primary.light.cyan.9}"
+        },
+        "stepTwo": {
+          "$type": "color",
+          "$value": "{colour.secondary.light.orange.10}"
+        },
+        "stepThree": {
+          "$type": "color",
+          "$value": "{colour.primary.light.lime.8}"
+        }
+      },
+      "text": {
+        "number": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "title": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "body": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "stepItem": {
+      "leftBorder": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.md}"
+      }
+    }
+  },
+  "typography": {
+    "stepItem": {
+      "xl": {
+        "number": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.md.bold}"
+        },
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.md.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.regular}"
+        }
+      },
+      "sm": {
+        "number": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.md.bold}"
+        },
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.md.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.mobile.md.regular}"
+        }
+      },
+      "md": {
+        "number": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.sm.bold}"
+        },
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.sm.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.regular}"
+        }
+      }
+    }
+  }
+}

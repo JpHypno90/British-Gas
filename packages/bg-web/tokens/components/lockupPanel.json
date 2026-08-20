@@ -1,0 +1,362 @@
+{
+  "sizing": {
+    "lockupPanel": {
+      "xl": {
+        "width": {
+          "$type": "sizing",
+          "$value": "{size.1080}"
+        },
+        "height": {
+          "$type": "sizing",
+          "$value": "{size.592}"
+        }
+      },
+      "lg": {
+        "width": {
+          "$type": "sizing",
+          "$value": "{size.1016}"
+        },
+        "height": {
+          "$type": "sizing",
+          "$value": "{size.682}"
+        }
+      },
+      "md": {
+        "width": {
+          "$type": "sizing",
+          "$value": "{size.704}"
+        }
+      },
+      "sm": {
+        "width": {
+          "$type": "sizing",
+          "$value": "{size.355}"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "lockupPanel": {
+      "xl": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.xl}"
+          }
+        },
+        "productPrice": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.xs}"
+          }
+        },
+        "priceContainer": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.sm}"
+          }
+        }
+      },
+      "lg": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.xl}"
+          }
+        },
+        "productPrice": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.xs}"
+          }
+        },
+        "priceContainer": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.sm}"
+          }
+        }
+      },
+      "md": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.48}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          },
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.xl}"
+          }
+        },
+        "productPrice": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.xs}"
+          }
+        },
+        "priceContainer": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.sm}"
+          }
+        }
+      },
+      "sm": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          },
+          "horizontalPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.xl}"
+          }
+        },
+        "productPrice": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.xs}"
+          }
+        },
+        "priceContainer": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.sm}"
+          }
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "lockupPanel": {
+      "xl": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.48}"
+      },
+      "lg": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.48}"
+      },
+      "md": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.48}"
+      },
+      "sm": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.32}"
+      },
+      "image": {
+        "xl": {
+          "default": {
+            "$type": "borderRadius",
+            "$value": "{borderRadius.32}"
+          },
+          "accent": {
+            "$type": "borderRadius",
+            "$value": "{borderRadius.8}"
+          }
+        },
+        "sm": {
+          "default": {
+            "$type": "borderRadius",
+            "$value": "{borderRadius.24}"
+          },
+          "accent": {
+            "$type": "borderRadius",
+            "$value": "{borderRadius.8}"
+          }
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "lockup": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.2}"
+      }
+    }
+  },
+  "colour": {
+    "lockupPanel": {
+      "background": {
+        "$type": "color",
+        "$value": "{colour.primary.dark.navy.9}"
+      },
+      "border": {
+        "$type": "color",
+        "$value": "linear-gradient(#0093F5 0%, #71BAFF 100%)"
+      },
+      "text": {
+        "title": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        },
+        "body": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        },
+        "pricing": {
+          "excess": {
+            "$type": "color",
+            "$value": "{colour.text.secondary}"
+          },
+          "price": {
+            "$type": "color",
+            "$value": "{colour.text.secondary}"
+          }
+        }
+      },
+      "image": {
+        "border": {
+          "$type": "color",
+          "$value": "linear-gradient(#C9E2FF 0%, #83B5FF 100%)"
+        }
+      }
+    }
+  },
+  "typography": {
+    "lockupPanel": {
+      "xl": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.xl.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.bold}"
+        },
+        "price": {
+          "number": {
+            "$type": "typography",
+            "$value": "{typography.heading.desktop.sm.bold}"
+          },
+          "excess": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          },
+          "default": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          }
+        }
+      },
+      "lg": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.lg.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.bold}"
+        },
+        "price": {
+          "number": {
+            "$type": "typography",
+            "$value": "{typography.heading.desktop.sm.bold}"
+          },
+          "excess": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          },
+          "default": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          }
+        }
+      },
+      "md": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.lg.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.md.bold}"
+        },
+        "price": {
+          "number": {
+            "$type": "typography",
+            "$value": "{typography.heading.desktop.sm.bold}"
+          },
+          "excess": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          },
+          "default": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          }
+        }
+      },
+      "sm": {
+        "title": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.2xl.bold}"
+        },
+        "body": {
+          "$type": "typography",
+          "$value": "{typography.body.mobile.md.bold}"
+        },
+        "price": {
+          "number": {
+            "$type": "typography",
+            "$value": "{typography.heading.mobile.md.bold}"
+          },
+          "excess": {
+            "$type": "typography",
+            "$value": "{typography.body.mobile.md.regular}"
+          },
+          "default": {
+            "$type": "typography",
+            "$value": "{typography.body.mobile.md.regular}"
+          }
+        }
+      }
+    }
+  }
+}

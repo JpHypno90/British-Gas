@@ -1,0 +1,116 @@
+{
+  "spacing": {
+    "scroller": {
+      "sm": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "navigation": {
+          "bottomPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        },
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        }
+      },
+      "md": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "navigation": {
+          "bottomPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          }
+        }
+      },
+      "lg": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.56}"
+        },
+        "navigation": {
+          "bottomPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          }
+        }
+      },
+      "xl": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.80}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        }
+      }
+    }
+  },
+  "sizing": {
+    "scroller": {
+      "xl": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.1440}"
+        }
+      },
+      "lg": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.1024}"
+        }
+      },
+      "md": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.768}"
+        }
+      },
+      "sm": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.375}"
+        }
+      },
+      "hoverOverlay": {
+        "desktop": {
+          "width": {
+            "$type": "sizing",
+            "$value": "{size.80}"
+          }
+        }
+      }
+    }
+  },
+  "colour": {
+    "scroller": {
+      "hoverOverlay": {
+        "background": {
+          "right": {
+            "$type": "color",
+            "$value": "linear-gradient(-90deg, rgba({colour.primary.dark.navy.1}, 0.0) 0%, {colour.primary.dark.navy.1} 79%)"
+          },
+          "left": {
+            "$type": "color",
+            "$value": "linear-gradient(90deg, rgba({colour.primary.dark.navy.1}, 0.0) 0%, {colour.primary.dark.navy.1} 79%)"
+          }
+        }
+      }
+    }
+  }
+}

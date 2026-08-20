@@ -1,0 +1,104 @@
+{
+  "spacing": {
+    "lockupOverlap": {
+      "xl": {
+        "leftColumn": {
+          "bottomPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.96}"
+          }
+        },
+        "rightColumn": {
+          "paddingTop": {
+            "$type": "spacing",
+            "$value": "{spacing.96}"
+          }
+        },
+        "paddingRight": {
+          "$type": "spacing",
+          "$value": "{spacing.80}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.56}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.neg-36}"
+        }
+      },
+      "md": {
+        "topRow": {
+          "bottomPadding": {
+            "$type": "spacing",
+            "$value": "{spacing.96}"
+          }
+        },
+        "bottomRow": {
+          "paddingLeft": {
+            "$type": "spacing",
+            "$value": "{spacing.84}"
+          }
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.48}"
+        },
+        "rightPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.neg-16}"
+        }
+      },
+      "sm": {
+        "bottomRow": {
+          "paddingLeft": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "rightPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.24}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.neg-24}"
+        }
+      }
+    }
+  },
+  "colour": {
+    "lockupOverlap": {
+      "background": {
+        "$type": "color",
+        "$value": "{colour.background.surface.primary}"
+      }
+    }
+  },
+  "typography": {
+    "lockupOverlap": {
+      "caption": {
+        "xl": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.sm.bold}"
+        },
+        "md": {
+          "$type": "typography",
+          "$value": "{typography.body.desktop.sm.bold}"
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": "{typography.body.mobile.sm.bold}"
+        }
+      }
+    }
+  }
+}

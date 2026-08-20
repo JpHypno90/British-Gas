@@ -1,0 +1,136 @@
+{
+  "colour": {
+    "navBar": {
+      "xl": {
+        "icon": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.icon.secondary}"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.border.default}"
+          }
+        }
+      },
+      "sm": {
+        "icon": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.icon.secondary}"
+          },
+          "expanded": {
+            "$type": "color",
+            "$value": "{colour.icon.primary}"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.border.default}"
+          }
+        }
+      }
+    }
+  },
+  "sizing": {
+    "navBar": {
+      "xl": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{size.100}"
+        }
+      },
+      "sm": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{size.72}"
+        },
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.1024}"
+        },
+        "mindWidth": {
+          "$type": "sizing",
+          "$value": "{size.375}"
+        }
+      },
+      "icon": {
+        "default": {
+          "$type": "sizing",
+          "$value": "{size.32}"
+        }
+      }
+    },
+    "navButton": {
+      "height": {
+        "$type": "sizing",
+        "$value": "{size.40}"
+      },
+      "minWidth": {
+        "$type": "sizing",
+        "$value": "{size.96}"
+      }
+    }
+  },
+  "spacing": {
+    "navBar": {
+      "xl": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.80}"
+        },
+        "controls": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.48}"
+          }
+        },
+        "menu": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.sm}"
+          }
+        }
+      },
+      "sm": {
+        "topPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.20}"
+          }
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "navBar": {
+      "xl": {
+        "default": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.xs}"
+        }
+      },
+      "sm": {
+        "default": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.xs}"
+        }
+      }
+    }
+  }
+}

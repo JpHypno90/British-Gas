@@ -1,0 +1,72 @@
+{
+  "colour": {
+    "gradient": {
+      "background": {
+        "container": {
+          "promotion": {
+            "$type": "color",
+            "$value": "linear-gradient(24deg, rgba( {colour.primary.dark.navy.1} , 1) 53%, rgba({colour.secondary.dark.red.10}, 1) 100%)"
+          },
+          "servicing": {
+            "$type": "color",
+            "$value": "linear-gradient(-168deg, {colour.primary.dark.cyan.9} 0%, {colour.primary.dark.navy.5} 36%)"
+          },
+          "alt": {
+            "$type": "color",
+            "$value": "linear-gradient(-135deg, {colour.primary.dark.cyan.9} 0%, {colour.primary.dark.navy.1} 50%)"
+          },
+          "hero": {
+            "$type": "color",
+            "$value": "linear-gradient(180deg, {colour.primary.light.navy.5} 0%, {colour.secondary.light.blue.9} 30%, {colour.primary.light.cyan.9} 59%, {colour.primary.light.navy.1} 99%)"
+          },
+          "membership": {
+            "$type": "color",
+            "$value": "linear-gradient(-168deg, {colour.secondary.light.forest.11} 0%, {colour.secondary.light.forest.9} 36%)"
+          },
+          "hive": {
+            "$type": "color",
+            "$value": "linear-gradient(-168deg, {colour.secondary.light.orange.8} 0%, {colour.secondary.light.orange.11} 100%)"
+          },
+          "highlight": {
+            "$type": "color",
+            "$value": "linear-gradient(-28deg, {colour.primary.light.lime.10} 0%,  {colour.primary.light.navy.9} 31%, {colour.primary.light.navy.5} 76%)"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "linear-gradient(130deg, {colour.primary.dark.navy.2} 0%, {colour.primary.light.navy.9} 100%)"
+          },
+          "default-inverse": {
+            "$type": "color",
+            "$value": "linear-gradient(180deg, {colour.primary.dark.navy.6} 0%, {colour.primary.dark.navy.2} 100%)"
+          }
+        }
+      },
+      "border": {
+        "promotion": {
+          "$type": "color",
+          "$value": "linear-gradient(135deg, {colour.secondary.light.red.8} 0%, {colour.secondary.light.red.11} 100%)"
+        },
+        "default": {
+          "$type": "color",
+          "$value": "linear-gradient(180deg, {colour.primary.light.cyan.9} 0%, {colour.primary.light.navy.11} 100%)"
+        },
+        "servicing": {
+          "$type": "color",
+          "$value": "linear-gradient(180deg, {colour.primary.dark.navy.8} 0%, {colour.primary.dark.cyan.9} 100%)"
+        },
+        "membership": {
+          "$type": "color",
+          "$value": "linear-gradient(180deg, {colour.secondary.dark.forest.9} 0%, {colour.secondary.dark.forest.8} 100%)"
+        },
+        "hive": {
+          "$type": "color",
+          "$value": "linear-gradient(180deg, {colour.secondary.light.orange.11} 0%, {colour.secondary.light.orange.7} 100%)"
+        },
+        "alt": {
+          "$type": "color",
+          "$value": "linear-gradient(130deg, {colour.primary.dark.navy.12} 0%, {colour.primary.light.navy.9} 100%)"
+        }
+      }
+    }
+  }
+}

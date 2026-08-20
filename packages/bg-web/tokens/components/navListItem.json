@@ -1,0 +1,74 @@
+{
+  "spacing": {
+    "navListItem": {
+      "verticalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.2xl}"
+      },
+      "rightPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.2xl}"
+      },
+      "leftPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.xl}"
+      },
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.lg}"
+      }
+    }
+  },
+  "sizing": {
+    "navListItem": {
+      "minWidth": {
+        "$type": "sizing",
+        "$value": "{size.375}"
+      },
+      "icon": {
+        "default": {
+          "$type": "sizing",
+          "$value": "{sizing.icon.sm}"
+        }
+      }
+    }
+  },
+  "colour": {
+    "navListItem": {
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.gradient.border.default}"
+        }
+      },
+      "icon": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.icon.action.secondary.default}"
+        }
+      },
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "navListItem": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.2}"
+      }
+    }
+  },
+  "typography": {
+    "navListItem": {
+      "default": {
+        "$type": "typography",
+        "$value": "{typography.heading.desktop.xs.bold}"
+      }
+    }
+  }
+}

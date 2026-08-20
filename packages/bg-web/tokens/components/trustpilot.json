@@ -1,0 +1,30 @@
+{
+  "colour": {
+    "trustpilot": {
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      },
+      "ratings": {
+        "background": {
+          "filled": {
+            "$type": "color",
+            "$value": "{colour.primary.dark.lime.9}"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "{colour.system.light.neutral.7}"
+          }
+        },
+        "icon": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.icon.primary}"
+          }
+        }
+      }
+    }
+  }
+}

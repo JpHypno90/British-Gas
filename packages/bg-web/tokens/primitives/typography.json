@@ -1,0 +1,262 @@
+{
+  "fontFamily": {
+    "interTight": {
+      "$type": "fontFamilies",
+      "$value": "Inter Tight"
+    },
+    "sarabun": {
+      "$type": "fontFamilies",
+      "$value": "Sarabun"
+    }
+  },
+  "fontWeight": {
+    "100": {
+      "$type": "fontWeights",
+      "$value": "100"
+    },
+    "200": {
+      "$type": "fontWeights",
+      "$value": "200"
+    },
+    "300": {
+      "$type": "fontWeights",
+      "$value": "300"
+    },
+    "400": {
+      "$type": "fontWeights",
+      "$value": "400"
+    },
+    "500": {
+      "$type": "fontWeights",
+      "$value": "500"
+    },
+    "600": {
+      "$type": "fontWeights",
+      "$value": "600"
+    },
+    "700": {
+      "$type": "fontWeights",
+      "$value": "700"
+    },
+    "800": {
+      "$type": "fontWeights",
+      "$value": "800"
+    },
+    "900": {
+      "$type": "fontWeights",
+      "$value": "900"
+    }
+  },
+  "fontSize": {
+    "12": {
+      "$type": "fontSizes",
+      "$value": "12"
+    },
+    "14": {
+      "$type": "fontSizes",
+      "$value": "14"
+    },
+    "16": {
+      "$type": "fontSizes",
+      "$value": "16"
+    },
+    "18": {
+      "$type": "fontSizes",
+      "$value": "18"
+    },
+    "20": {
+      "$type": "fontSizes",
+      "$value": "20"
+    },
+    "22": {
+      "$type": "fontSizes",
+      "$value": "22"
+    },
+    "24": {
+      "$type": "fontSizes",
+      "$value": "24"
+    },
+    "28": {
+      "$type": "fontSizes",
+      "$value": "28"
+    },
+    "32": {
+      "$type": "fontSizes",
+      "$value": "32"
+    },
+    "34": {
+      "$type": "fontSizes",
+      "$value": "34"
+    },
+    "40": {
+      "$type": "fontSizes",
+      "$value": "40"
+    },
+    "48": {
+      "$type": "fontSizes",
+      "$value": "48"
+    },
+    "56": {
+      "$type": "fontSizes",
+      "$value": "56"
+    },
+    "60": {
+      "$type": "fontSizes",
+      "$value": "60"
+    },
+    "68": {
+      "$type": "fontSizes",
+      "$value": "68"
+    }
+  },
+  "lineHeight": {
+    "17": {
+      "$type": "lineHeights",
+      "$value": "17"
+    },
+    "20": {
+      "$type": "lineHeights",
+      "$value": "20"
+    },
+    "23": {
+      "$type": "lineHeights",
+      "$value": "23"
+    },
+    "24": {
+      "$type": "lineHeights",
+      "$value": "24"
+    },
+    "25": {
+      "$type": "lineHeights",
+      "$value": "25"
+    },
+    "26": {
+      "$type": "lineHeights",
+      "$value": "26"
+    },
+    "27": {
+      "$type": "lineHeights",
+      "$value": "27"
+    },
+    "29": {
+      "$type": "lineHeights",
+      "$value": "29"
+    },
+    "30": {
+      "$type": "lineHeights",
+      "$value": "30"
+    },
+    "31": {
+      "$type": "lineHeights",
+      "$value": "31"
+    },
+    "32": {
+      "$type": "lineHeights",
+      "$value": "32"
+    },
+    "34": {
+      "$type": "lineHeights",
+      "$value": "34"
+    },
+    "35": {
+      "$type": "lineHeights",
+      "$value": "35"
+    },
+    "37": {
+      "$type": "lineHeights",
+      "$value": "37"
+    },
+    "38": {
+      "$type": "lineHeights",
+      "$value": "38"
+    },
+    "40": {
+      "$type": "lineHeights",
+      "$value": "40"
+    },
+    "42": {
+      "$type": "lineHeights",
+      "$value": "42"
+    },
+    "44": {
+      "$type": "lineHeights",
+      "$value": "44"
+    },
+    "46": {
+      "$type": "lineHeights",
+      "$value": "46"
+    },
+    "48": {
+      "$type": "lineHeights",
+      "$value": "48"
+    },
+    "50": {
+      "$type": "lineHeights",
+      "$value": "50"
+    },
+    "54": {
+      "$type": "lineHeights",
+      "$value": "54"
+    },
+    "56": {
+      "$type": "lineHeights",
+      "$value": "56"
+    },
+    "63": {
+      "$type": "lineHeights",
+      "$value": "63"
+    },
+    "68": {
+      "$type": "lineHeights",
+      "$value": "68"
+    },
+    "70": {
+      "$type": "lineHeights",
+      "$value": "70"
+    },
+    "76": {
+      "$type": "lineHeights",
+      "$value": "76"
+    }
+  },
+  "letterSpacing": {
+    "5": {
+      "$type": "letterSpacing",
+      "$value": "0.005em"
+    },
+    "0-5px": {
+      "$type": "letterSpacing",
+      "$value": "0.5px"
+    },
+    "0-6px": {
+      "$type": "letterSpacing",
+      "$value": "0.6px"
+    },
+    "0-85px": {
+      "$type": "letterSpacing",
+      "$value": "0.85px"
+    },
+    "1-1px": {
+      "$type": "letterSpacing",
+      "$value": "1.1px"
+    },
+    "1-3px": {
+      "$type": "letterSpacing",
+      "$value": "1.3px"
+    },
+    "1-6px": {
+      "$type": "letterSpacing",
+      "$value": "1.6px"
+    },
+    "1-8px": {
+      "$type": "letterSpacing",
+      "$value": "1.8px"
+    }
+  },
+  "textDecoration": {
+    "underline": {
+      "$type": "textDecoration",
+      "$value": "underline"
+    }
+  }
+}

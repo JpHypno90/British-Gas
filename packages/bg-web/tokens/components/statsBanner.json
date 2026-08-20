@@ -1,0 +1,150 @@
+{
+  "sizing": {
+    "statsBanner": {
+      "xl": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.1440}"
+        }
+      },
+      "lg": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.1024}"
+        }
+      },
+      "md": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.768}"
+        }
+      },
+      "sm": {
+        "maxWidth": {
+          "$type": "sizing",
+          "$value": "{size.375}"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "statsBanner": {
+      "xl": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.180}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.92}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.48}"
+          }
+        }
+      },
+      "lg": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.56}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.92}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.48}"
+          }
+        }
+      },
+      "md": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.64}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.48}"
+          }
+        },
+        "statsGroup": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        }
+      },
+      "sm": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.48}"
+          }
+        },
+        "statsGroup": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.32}"
+          }
+        }
+      }
+    }
+  },
+  "colour": {
+    "statsBanner": {
+      "heading": {
+        "$type": "color",
+        "$value": "{colour.text.primary}"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "{colour.background.container.primary}"
+      }
+    }
+  },
+  "typography": {
+    "statsBanner": {
+      "xl": {
+        "heading": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.2xl.bold}"
+        }
+      },
+      "lg": {
+        "heading": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.2xl.bold}"
+        }
+      },
+      "md": {
+        "heading": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.xl.bold}"
+        }
+      },
+      "sm": {
+        "heading": {
+          "$type": "typography",
+          "$value": "{typography.heading.mobile.2xl.bold}"
+        }
+      }
+    }
+  }
+}

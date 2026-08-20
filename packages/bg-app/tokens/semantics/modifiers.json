@@ -1,0 +1,18 @@
+{
+  "modifiers": {
+    "alpha": {
+      "20": {
+        "$type": "other",
+        "$value": "0.2"
+      },
+      "50": {
+        "$type": "other",
+        "$value": "{opacity.05}"
+      },
+      "08": {
+        "$type": "other",
+        "$value": "0.08"
+      }
+    }
+  }
+}

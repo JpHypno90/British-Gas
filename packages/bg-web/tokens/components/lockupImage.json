@@ -1,0 +1,30 @@
+{
+  "sizing": {
+    "lockupImage": {
+      "sm": {
+        "$type": "sizing",
+        "$value": "351px"
+      },
+      "md": {
+        "$type": "sizing",
+        "$value": "680px"
+      },
+      "xl": {
+        "$type": "sizing",
+        "$value": "624px"
+      }
+    }
+  },
+  "borderRadius": {
+    "lockupImage": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.40}"
+      },
+      "cornerAccent": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.xs}"
+      }
+    }
+  }
+}

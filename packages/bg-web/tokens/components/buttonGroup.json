@@ -1,0 +1,30 @@
+{
+  "spacing": {
+    "buttonGroup": {
+      "xl": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        }
+      },
+      "lg": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        }
+      },
+      "md": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        }
+      },
+      "sm": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        }
+      }
+    }
+  }
+}

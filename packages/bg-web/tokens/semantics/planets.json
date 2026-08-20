@@ -1,0 +1,46 @@
+{
+  "colour": {
+    "background": {
+      "ocean": {
+        "$type": "color",
+        "$value": "linear-gradient(0deg, #b2d6fc 29%, #0093f5 82%)"
+      },
+      "ember": {
+        "$type": "color",
+        "$value": "linear-gradient(0deg, #ff5900 90%, #ff590000 17%)"
+      },
+      "forest": {
+        "$type": "color",
+        "$value": "linear-gradient(0deg, #2f7c3f 23%, #00193d66 83%)"
+      },
+      "electric": {
+        "$type": "color",
+        "$value": "linear-gradient(0deg, #124EB9 11%, #0093F5 59%, #0093F5 88%)"
+      },
+      "dim": {
+        "$type": "color",
+        "$value": "linear-gradient(0deg, #00193d99 5%, #004ecc99 90%)"
+      },
+      "bright": {
+        "$type": "color",
+        "$value": "linear-gradient(0deg, #004ecc 28%, #00193d 85%)"
+      },
+      "ghost": {
+        "$type": "color",
+        "$value": "linear-gradient(0deg, #00102994 26%, #0093f594 85%)"
+      },
+      "sky": {
+        "$type": "color",
+        "$value": "linear-gradient(0deg, #f4faff94 26%, #0093f594 85%)"
+      },
+      "fire": {
+        "$type": "color",
+        "$value": "linear-gradient(180deg, #c40024 11%, #0093f500 70%)"
+      },
+      "deep": {
+        "$type": "color",
+        "$value": "linear-gradient(0deg, #0093f500 22%, #004eccFF 100%)"
+      }
+    }
+  }
+}

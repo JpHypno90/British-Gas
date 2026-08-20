@@ -1,0 +1,190 @@
+{
+  "sizing": {
+    "keyBenefits": {
+      "xl": {
+        "item": {
+          "iconContainer": {
+            "height": {
+              "$type": "sizing",
+              "$value": "{size.80}"
+            }
+          }
+        }
+      },
+      "sm": {
+        "item": {
+          "iconContainer": {
+            "height": {
+              "$type": "sizing",
+              "$value": "{size.64}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "spacing": {
+    "keyBenefits": {
+      "xl": {
+        "item": {
+          "iconContainer": {
+            "horizontalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.2xl}"
+            },
+            "verticalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.2xl}"
+            }
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.96}"
+        },
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.80}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.48}"
+        }
+      },
+      "sm": {
+        "item": {
+          "iconContainer": {
+            "horizontalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.xl}"
+            },
+            "verticalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.xl}"
+            }
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        },
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.48}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        }
+      },
+      "md": {
+        "item": {
+          "iconContainer": {
+            "horizontalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.2xl}"
+            },
+            "verticalPadding": {
+              "$type": "spacing",
+              "$value": "{spacing.2xl}"
+            }
+          },
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.48}"
+        },
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.32}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.48}"
+        }
+      }
+    }
+  },
+  "colour": {
+    "keyBenefits": {
+      "item": {
+        "iconContainer": {
+          "border": {
+            "$type": "color",
+            "$value": "{colour.border.benefits}"
+          }
+        },
+        "icon": {
+          "$type": "color",
+          "$value": "{colour.icon.primary}"
+        },
+        "title": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "body": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "keyBenefits": {
+      "item": {
+        "default": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.3}"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "iconContainer": {
+      "item": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.round}"
+        }
+      }
+    }
+  },
+  "typography": {
+    "keyBenefits": {
+      "item": {
+        "xl": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.desktop.md.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.desktop.md.regular}"
+          }
+        },
+        "sm": {
+          "title": {
+            "$type": "typography",
+            "$value": "{typography.heading.mobile.md.bold}"
+          },
+          "body": {
+            "$type": "typography",
+            "$value": "{typography.body.mobile.md.regular}"
+          }
+        }
+      }
+    }
+  }
+}

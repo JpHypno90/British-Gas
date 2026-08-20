@@ -1,0 +1,34 @@
+{
+  "spacing": {
+    "navBento": {
+      "column": {
+        "xl": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        },
+        "sm": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        }
+      },
+      "row": {
+        "xl": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        },
+        "sm": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xl}"
+          }
+        }
+      }
+    }
+  }
+}

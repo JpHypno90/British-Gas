@@ -1,0 +1,18 @@
+{
+  "spacing": {
+    "list": {
+      "xl": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        }
+      },
+      "sm": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        }
+      }
+    }
+  }
+}
